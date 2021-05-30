@@ -1,1 +1,7 @@
 vivado_project/*
+
+_minted-report
+*.aux
+*.log
+*.out
+*.synctex.gz
